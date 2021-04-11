@@ -9,10 +9,10 @@
 # --------------------------------------------
 # XiaomiServices
 # --------------------------------------------
-@@||app.chat.xiaomi.net^
-@@||data.mistat.xiaomi.com^
-@@||tracking.miui.com^
-@@||alogs.umengcloud.com^
+! @@||app.chat.xiaomi.net^
+! @@||data.mistat.xiaomi.com^
+! @@||tracking.miui.com^
+! @@||alogs.umengcloud.com^
 @@||api.io.mi.com^
 @@||alogs.umeng.com^
 # --------------------------------------------
@@ -44,3 +44,7 @@
 # AliServices
 # --------------------------------------------
 @@||alidns.com^$important
+# --------------------------------------------
+# OtherServices
+# --------------------------------------------
+@@||z.cn^$important
