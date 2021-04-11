@@ -11,6 +11,9 @@
 # JDServices
 # --------------------------------------------
 @@||img30.360buyimg.com^$important
+@@||dg.k.jd.com^$important
+@@||kepler.jd.com^$important
+@@||dgstatic.jd.com^$important
 # --------------------------------------------
 # AdultServices
 # --------------------------------------------
