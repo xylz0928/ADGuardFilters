@@ -1,5 +1,5 @@
 # --------------------------------------------
-! XiaomiServices
+# XiaomiServices
 # --------------------------------------------
 @@||app.chat.xiaomi.net^
 @@||data.mistat.xiaomi.com^
@@ -8,11 +8,11 @@
 @@||api.io.mi.com^
 @@||alogs.umeng.com^
 # --------------------------------------------
-! JDServices
+# JDServices
 # --------------------------------------------
 @@||img30.360buyimg.com^$important
 # --------------------------------------------
-! AdultServices
+# AdultServices
 # --------------------------------------------
 @@||xvideos.com^$important
 @@||91porn.com^$important
