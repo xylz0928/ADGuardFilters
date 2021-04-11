@@ -1,4 +1,12 @@
 # --------------------------------------------
+# Injected
+# --------------------------------------------
+@@||taobao.com^$important
+@@||flyme.cn^$important
+@@||meizu.com^$important
+@@||flydigi.com^
+@@||pv.sohu.com^$important
+# --------------------------------------------
 # XiaomiServices
 # --------------------------------------------
 @@||app.chat.xiaomi.net^
@@ -10,6 +18,8 @@
 # --------------------------------------------
 # JDServices
 # --------------------------------------------
+@@||jd.com^important
+@@||wl.jd.com^$important
 @@||img30.360buyimg.com^$important
 @@||dg.k.jd.com^$important
 @@||kepler.jd.com^$important
@@ -25,3 +35,12 @@
 # MyOwnServices
 # --------------------------------------------
 @@||7ze.top^$important
+# --------------------------------------------
+# GitHubServices
+# --------------------------------------------
+@@||githubusercontent.com^$important
+@@||raw.githubusercontent.com^$important
+# --------------------------------------------
+# AliServices
+# --------------------------------------------
+@@||alidns.com^$important
