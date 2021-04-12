@@ -1,2 +1,2 @@
-Netk5-PVE       10.61.0.250
-fileserver01    10.20.2.27
+10.61.0.250     Netk5-PVE
+10.20.2.27      fileserver01    
