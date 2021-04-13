@@ -48,3 +48,8 @@
 # OtherServices
 # --------------------------------------------
 @@||z.cn^$important
+! @@||event.csdn.net^$important
+! @@||g.csdnimg.cn^$important
+! @@||kunyu.csdn.net^$important
+@@||self.events.data.microsoft.com^$important
+@@||mp.weixin.qq.com^$important
