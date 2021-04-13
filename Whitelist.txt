@@ -53,3 +53,8 @@
 ! @@||kunyu.csdn.net^$important
 @@||self.events.data.microsoft.com^$important
 @@||mp.weixin.qq.com^$important
+@@||file.hkepc.net^$important
+@@||i.hkepc.net^$important
+@@||abc.hkepc.net^$important
+@@||avatar.hkepc.net^$important
+@@||forumfs2.hkepc.net^$important
