@@ -70,3 +70,5 @@
 @@||avatar.hkepc.net^$important
 @@||forumfs2.hkepc.net^$important
 @@||img2.autoimg.cn^$important
+# iqiyi danmu
+@@||cmts.iqiyi.com^$important
