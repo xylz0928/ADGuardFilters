@@ -46,6 +46,16 @@
 # --------------------------------------------
 @@||alidns.com^$important
 # --------------------------------------------
+# Speedtest Services
+# --------------------------------------------
+@@||cdn.88-f.net^$important
+@@||5gnanjing.speedtest.jsinfo.net^$important
+@@||speedtest1.online.sh.cn^$important
+@@||4gsuzhou1.speedtest.jsinfo.net^$important
+@@||zdbb.net^$important
+@@||5gzhenjiang.speedtest.jsinfo.net^$important
+@@||config.88-f.net^$important
+# --------------------------------------------
 # OtherServices
 # --------------------------------------------
 @@||z.cn^$important
