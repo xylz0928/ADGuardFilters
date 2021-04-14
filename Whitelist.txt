@@ -56,6 +56,12 @@
 @@||5gzhenjiang.speedtest.jsinfo.net^$important
 @@||config.88-f.net^$important
 # --------------------------------------------
+# WinPE Services
+# --------------------------------------------
+@@||down.laomaotao.net^$important
+@@||www.dabaicai.com^$important
+@@||down.dabaicai.com^$important
+# --------------------------------------------
 # OtherServices
 # --------------------------------------------
 # iqiyi danmu
