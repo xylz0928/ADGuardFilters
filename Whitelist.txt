@@ -83,3 +83,4 @@
 @@||issuecdn.baidupcs.com^$important
 @@||api.driver.360safe.com^$important
 @@||src.dl.360safe.com^$important
+@@||api.k.sohu.com^$important
