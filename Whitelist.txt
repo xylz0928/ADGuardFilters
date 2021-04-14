@@ -74,3 +74,4 @@
 @@||forumfs2.hkepc.net^$important
 @@||img2.autoimg.cn^$important
 @@||www.msn.cn^$important
+@@||issuecdn.baidupcs.com^$important
