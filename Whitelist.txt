@@ -58,6 +58,9 @@
 # --------------------------------------------
 # OtherServices
 # --------------------------------------------
+# iqiyi danmu
+@@||cmts.iqiyi.com^$important
+# -
 @@||z.cn^$important
 ! @@||event.csdn.net^$important
 ! @@||g.csdnimg.cn^$important
@@ -70,5 +73,4 @@
 @@||avatar.hkepc.net^$important
 @@||forumfs2.hkepc.net^$important
 @@||img2.autoimg.cn^$important
-# iqiyi danmu
-@@||cmts.iqiyi.com^$important
+@@||www.msn.cn^$important
