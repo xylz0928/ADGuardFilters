@@ -1,2 +1,4 @@
 # DoubanStart
 ||api.douban.com^$important
+# WeiboStart
+||api.weibo.cn^$important
