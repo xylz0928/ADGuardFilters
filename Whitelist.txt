@@ -81,3 +81,5 @@
 @@||img2.autoimg.cn^$important
 @@||www.msn.cn^$important
 @@||issuecdn.baidupcs.com^$important
+@@||api.driver.360safe.com^$important
+@@||src.dl.360safe.com^$important
