@@ -4,3 +4,4 @@
 ||api.weibo.cn^$important
 #||gw.im.weibo.cn^$important
 #||api.im.weibo.cn^$important
+||n.sinaimg.cn^$important
