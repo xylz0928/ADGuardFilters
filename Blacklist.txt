@@ -6,3 +6,4 @@
 #||api.im.weibo.cn^$important
 ||n.sinaimg.cn^$important
 ||update.synology.com^$important
+||cndl.synology.cn^$important
